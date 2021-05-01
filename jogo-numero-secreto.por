@@ -5,7 +5,6 @@ programa
 	inteiro n
 	inteiro valor = 55
 	inteiro controle = 10
-	inteiro sair = 1
 
 	escreva("*************************\n")
 	escreva("* DESCUBRA O N° SECRETO *\n")
